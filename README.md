@@ -1,5 +1,5 @@
 # angularjsskeleton
-Skeleton project for easy AngularJS setup
+Skeleton project for AngularJS
 Easy setup for a bootstrap angularjs project. Ready to use with the built-in angularjs router, or you can easily replace it with the ui-router.
 
 MIT License:
